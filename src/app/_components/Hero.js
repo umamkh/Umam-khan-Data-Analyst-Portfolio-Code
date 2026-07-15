@@ -26,7 +26,7 @@ export default function Hero() {
             </div>
             
             <div className="w-40 h-40 rounded-full overflow-hidden mt-10 border-4 border-white "> 
-                <Image src="/Umam.webp" alt="profile image" width={160} height={160} className="w-full h-full object-cover" />
+                <Image src="/Umam.webp" alt="profile image" width={160} height={160} className="w-full h-full object-cover object-top" />
             </div>
         </section>
     )
