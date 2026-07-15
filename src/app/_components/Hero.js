@@ -7,7 +7,7 @@ export default function Hero() {
             <div>
             <h1 className="text-3xl text-stone-700 mb-10 mt-20">
                <span className="mr-2">Hi, I'm</span>
-               <span className="text-blue-600">Umam khan</span> <br />
+               <span className="text-blue-600">Umam Khan</span> <br />
                <span>Data Analyst & Business Analyst</span>
             </h1>
             <p className="mt-10 text-stone-500">
