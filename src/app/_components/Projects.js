@@ -8,19 +8,16 @@ export default function Projects() {
   {
       name: "Hospitality Analytics Project",
       techs:["Power BI", "DAX", "Power Query", "MySQL", "Microsoft Excel","csv dataset"],
-      image: "/Finance tracker.jpeg",
+    
       description:
         "A hospitality analytics dashboard with revenue, occupancy, booking, and cancellation insights — built using Power BI, SQL, and Excel.",
-      liveLink: "https://finance-tracker-smoky-alpha-83.vercel.app/",
       codeLink: "https://github.com/umamkh/Hospitality-analytics-project-",
     },
 {
       name: "Pizza Booking App",
       techs: ["React.js", "Tailwind CSS", "Supabase"],
-      image: "/pizza.jpeg",
       description:
         "A React + Redux pizza ordering app with cart management and order tracking, migrated from a REST API to a Supabase backend for persistent, relational data storage.",
-      liveLink: "https://react-pizza-app-v148.vercel.app/",
       codeLink: "https://github.com/Salman-0090/react-pizza-app",
     },]
     return( 
@@ -33,9 +30,9 @@ export default function Projects() {
             
             return (
             
-            <div key={card.name} className="max-w-[300px] max-h-[800px] rounded-md overflow-hidden bg-blue-100 shadow-xl/30 cursor-pointer transition-all duration-300 hover:translate-y-2 hover:shadow-2xl pb-6">
+            <div key={card.name} className="max-w-[300px] max-h-[800px] rounded-md overflow-hidden bg-blue-100 shadow-xl/30 cursor-pointer transition-all duration-300 hover:translate-y-2 hover:shadow-2xl pb-6 pt-4">
                   
-                 <Image src={card.image} width={400} height={400} alt={card.name} key={card.name}/>
+                 
               
                 <div className="flex flex-wrap gap-2 mt-3 px-3">
                     {card.techs.map((tech)=> {
