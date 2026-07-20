@@ -11,7 +11,7 @@ export default function About() {
                 <div>
                     <h2 className="font-bold text-xl mb-5">Hi, I'm Umam Khan</h2>
                     <p className="text-stone-700">
-                       <span className="block mb-5"> Aspiring Data Analyst with 6+ months of internship experience across two data analytics projects. Skilled in SQL, Microsoft Excel, Power BI, Tableau, Python, data visualization, data cleaning, and business reporting. Aspiring Data Analyst with 6+ months of internship experience across two data analytics projects. Skilled in SQL, Microsoft Excel, Power BI, Tableau, Python, data visualization, data cleaning, and business reporting.</span>
+                       <span className="block mb-5"> Aspiring Data Analyst with 6+ months of internship experience across two data analytics projects. Skilled in SQL, Microsoft Excel, Power BI, Tableau, Python, data visualization, data cleaning, and business reporting.</span>
                        <span>
 Certified in Data Analytics and NASSCOM Certified in Data Analysis. Currently pursuing a Bachelor's degree and eager to contribute analytical expertise, problem-solving abilities, and business intelligence skills to a dynamic organization.</span>
                     </p>
