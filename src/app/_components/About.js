@@ -24,5 +24,3 @@ Certified in Data Analytics and NASSCOM Certified in Data Analysis. Currently pu
         </section>
     )
 }
-className="mt-10 ml-4 text-lg text-stone-800 font-semibold">
-    className="font-semibold text-xl mb-5
