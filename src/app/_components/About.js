@@ -9,7 +9,7 @@ export default function About() {
                 <Image src="/Umam.webp" alt="profile image" width={160} height={160} className="w-full h-full object-cover object-top" />
                 </div>
                 <div>
-                    <h2 className="font-semibold text-xl mb-5">Hi, I'm Umam Khan</h2>
+                    <h2 className="mt-10ml-4 text-lg text-stone-800 font-semibold">Hi, I'm Umam Khan</h2>
                     <p className="text-stone-700">
                        <span className="block mb-5"> Aspiring Data Analyst with 6+ months of internship experience across two data analytics projects. Skilled in SQL, Microsoft Excel, Power BI, Tableau, Python, data visualization, data cleaning, and business reporting.</span>
                        <span>
@@ -24,3 +24,5 @@ Certified in Data Analytics and NASSCOM Certified in Data Analysis. Currently pu
         </section>
     )
 }
+className="mt-10 ml-4 text-lg text-stone-800 font-semibold">
+    className="font-semibold text-xl mb-5
