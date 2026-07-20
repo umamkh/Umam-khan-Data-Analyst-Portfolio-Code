@@ -6,7 +6,7 @@ export default function About() {
             <h1 className="text-blue-600 text-center text-2xl mb-20">About Me</h1>
             <div className="grid grid-cols-1 sm:grid-cols-2 items-center place-items-center gap-10 sm:gap-5">
                 <div className="w-40 h-40 rounded-full overflow-hidden mt-10 border-4 border-blue-600"> 
-                <Image src="/umam.webp" alt="profile image" width={160} height={160} className="w-full h-full object-cover object-top" />
+                <Image src="/Umam.webp" alt="profile image" width={160} height={160} className="w-full h-full object-cover object-top" />
                 </div>
                 <div>
                     <h2 className="font-bold text-xl mb-5">Hi, I'm Umam Khan</h2>
